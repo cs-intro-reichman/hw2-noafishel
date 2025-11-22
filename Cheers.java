@@ -1,7 +1,6 @@
-//feedback
-
 /*
-Great work boaz!
+Feedback: 
+Very nicely written :)
 */
 
 
@@ -26,3 +25,4 @@ public class Cheers {
             }
         }
 }
+
